@@ -8,5 +8,5 @@
 5. Search for items in their list
 6. Stop the program
 
-#### To start the simulation program, please run the 'Main.java' file under the source folder of this project. 
+#### To start the simulation program, please run the 'Main.java' file under the source folder of this project. Also, make sure that all the project files have been downloaded onto your local computer and then have been imported as a project on your correspnding IDE.  
 #### Thank you for testing out my program and I hope you had fun with it! :)
