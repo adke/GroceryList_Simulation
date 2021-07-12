@@ -12,7 +12,7 @@ public class Main {
         int choice = 0;
 
         //initial outputs for the program on the terminal
-        System.out.println("\nWELCOME TO THE ONLINE GROCERY LIST SIMULATION!");
+        System.out.println("\nWELCOME TO THE VIRTUAL GROCERY LIST SIMULATION!");
         System.out.println("\n----------------------------------------------");
         System.out.println("\nTo start using the program, please select one of the following options provided below for your grocery list: ");
 
